@@ -1,0 +1,30 @@
+.portal a{
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  border:3px solid #002a5a;
+  margin:10px;
+  text-decoration: none;
+  color: #002a5a;
+  padding: 20px;
+  font-size: 24px;
+}
+.portal a img {
+  height:200px;
+}
+@media only screen and (min-width: 450px) and (max-width: 530px){
+  .portal a img {
+    height:150px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .portal a img {
+    height:100px;
+  }
+  .portal a{
+    margin:10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+}
