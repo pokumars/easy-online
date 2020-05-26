@@ -5,7 +5,7 @@ import WelcomeBar from '../WelcomeBar/WelcomeBar';
 import PortalList from '../PortaList/PortalList';
 import Footer from '../Footer/Footer';
 import {
-  BrowserRouter as Switch, Route, Link } from "react-router-dom"
+  BrowserRouter as Switch, Route } from "react-router-dom"
 
 
 
