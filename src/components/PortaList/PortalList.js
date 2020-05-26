@@ -6,39 +6,39 @@ const portals = [
   {
     name:"Jobs",
     icon: "jobs.svg",
-    url: "#",
+    url: "jobs",
     alt:"jobs age and magnifying glass"
   },
   {
     name:"Sports",
     icon: "sports.svg",
-    url: "#",
+    url: "sports",
     alt:"abasketball and an american football"
   },
   {
     name:"Corporations",
     icon: "corporate.svg",
-    url: "#",
+    url: "corporate",
     alt:"a corporate building icon"
   },
   {
     name:"Travel",
     icon: "travel.svg",
-    url: "#",
+    url: "travel",
     alt:"person carrying luggage"
   },
   {
     name:"Sports",
     icon: "sports.svg",
-    url: "#",
+    url: "sports",
     alt:"abasketball and an american football"
   },
   {
     name:"Corporations",
     icon: "corporate.svg",
-    url: "#",
+    url: "corporate",
     alt:"a corporate building icon"
-  },
+  }
 ]
 
 const PortalList = () => {

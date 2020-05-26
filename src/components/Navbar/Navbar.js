@@ -33,7 +33,7 @@ const NavbarLink = () => {
 export const Navbar = () => {
   return (
     <div className="navbar">
-      <div className="logo"><a href="#easyonline">EASY➤online</a></div>
+      <div className="logo"><a href="/">EASY➤online</a></div>
       <NavbarLink />
     </div>
     

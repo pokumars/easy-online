@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer">
       The © EASY online company | <a href="#about">About</a><br />
       <p>This site is still being developed<br/>
-        By <b>Oheneba</b>
+        by <b>Oheneba</b>
       </p>
     </div>
   )
